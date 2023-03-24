@@ -1,7 +1,7 @@
 # Portfolio
 
-> Status do projeto: Em desenvolvimento 
+Meu primeiro projeto desenvolvido com os cursos de `HTML` e `CSS` do Alura.
 
-``` 
-O projeto será atualizado de acordo com o avançando no curso HTML e CSS
-``` 
+
+![image](https://user-images.githubusercontent.com/97538755/227626549-b7be96d4-c0a1-4b72-8470-affb973cae32.png)
+
