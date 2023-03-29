@@ -88,7 +88,11 @@ body {
 .apresentacao__conteudo__texto {
     font-size: 1.5rem;
     font-family: var(--fonte-secundaria);
-
+}
+.apresentacao__conteudo__texto__curriculo {
+    font-size: 1.5rem;
+    font-family: var(--fonte-secundaria);
+    text-align: center;
 }
 
 .apresentacao__conteudo__texto__destaque:hover {
